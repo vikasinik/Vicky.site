@@ -1,27 +1,30 @@
 
             
-      html, body {
+      
+    html, body {
             	pading: 0;
-                margin-left: 50px;
-                margin-right: 50px;
+                margin-left: 20px;
+                margin-right: 40px;
                 font-family: "Arial";
-                background-color: #000dff;
-                color: white;
+                background-color: #94b0ff;
+                color: black;
                 text-align: center;
             }
             
            h1 { 
            		font-size: 50px;
-           		color: white;
+           		color: black;
            }
            h3 {
            		padding: 0;
                 margin-left: 0;
                 font-size: 20px;
-                color: white;
+                color: black;
 
       
                
                 
            
 	
+
+  
